@@ -1,0 +1,4 @@
+interface:
+  display_name: "分析文档精修"
+  short_description: "跨项目精修技术与业务分析资料，适配当前文风，保留结构、事实和证据边界"
+  default_prompt: "使用 $reverse-report-editor 精修这份分析资料，依据当前材料适配文风，保留结构、事实和证据边界，改善措辞、术语和段落衔接。"
